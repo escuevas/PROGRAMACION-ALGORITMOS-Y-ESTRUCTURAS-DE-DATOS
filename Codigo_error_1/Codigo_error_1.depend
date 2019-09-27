@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569624470 source:c:\users\usuario\desktop\programacion algoritmos y estructuras de datos\codigo_error_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
